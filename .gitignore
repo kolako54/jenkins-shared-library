@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 lib
+.gitignore
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
