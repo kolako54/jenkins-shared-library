@@ -1,4 +1,5 @@
 ### IntelliJ IDEA ###
+.gitignore
 lib
 src
 out/
